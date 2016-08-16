@@ -1,4 +1,3 @@
-layout_spectrum: 0.6023414698429406
 typography_spectrum: 0.4344859442207962
 color:
   brandStrength: 0.8177570994012058
@@ -6,9 +5,11 @@ color:
   saturation: 0.7215419397689402
   rhythmicContrast: 0.1705802429933101
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.6023414698429406
 name: Búzios Concierge
+title: Luxury Concierge Experiences
